@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The collection of all the particular papers that passed between His Majesty, both houses, and the committee, concerning the late treaty.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 79KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18942</idno><idno type="EEBO-CITATION">11753604</idno>
+  <idno type="VID">204607</idno>
+  <idno type="EEBO-PROQUEST">2264183653</idno>
+  
+            <idno type="STC">Wing C2157</idno>
+            <idno type="STC">ESTC R218603</idno>
+            <idno type="OCLC">11753604</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2070:9b, 1380:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The collection of all the particular papers that passed between His Majesty, both houses, and the committee, concerning the late treaty.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties command at Oxford by Leonard Lichfield, Printer to the Vniversity.,,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Documents relating to peace negotiations between King and Parliament, March-April, 1643.</note>
+                  <note>Imperfect: copy at reel 2070:9b has only the t.p. of "His Majesties message to both Houses concerning disbanding armies ... 12, April, 1643."</note>
+                  <note>Item at reel 1380:9 identified as Wing C5111 (number canceled in Wing CD-ROM, 1996).</note>
+                  <note>"His Majesties message to both Houses concerning disbanding armies ... 12, April, 1643", p. 43-48, has special t.p.</note>
+                  <note>Reproductions of originals in Cambridge University Library (reel 1380:9) and Bodleian Library (reel 2070:9b).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:204607:1"/>
+                  <pb facs="tcp:204607:1"/>
+                  <p>THE COLLECTION OF ALL THE PARTICULAR PAPERS that passed between <hi>HIS MAJESTY,</hi> BOTH HOUSES, AND THE COMMITTEE, Concerning the late TREATY.</p>
+                  <p>Printed by His MAJESTIES Command <hi>AT OXFORD,</hi> By LEONARD LICHFIELD, Printer <hi>to the Vniversity.</hi> 1643.</p>
+               </div>
+            </front>
+            <body>
+               <div type="document">
+                  <pb facs="tcp:204607:2"/>
+                  <pb n="1" facs="tcp:204607:2"/>
+                  <head>HIS MAIESTIES <hi>QVESTIONS</hi> Before the Treaty, and the COMMITTEES Answers, <hi>March.</hi> 25. 1643. His Majestie desires to be answered these Questions, in writing, by the COMMITTEE of both Houses.</head>
+                  <p n="1">1. <seg rend="decorInit">W</seg>HETHER they may not shew unto Him those Instructions (according to which they are to Treat and debate with His Majestie upon the two first Proposi<g ref="char:EOLhyphen"/>tions) of which the last Message from both Houses to His Majestie takes notice, and referres unto?</p>
+                  <p n="2">2. Whether they have power to passe from one Propo<g ref="char:EOLhyphen"/>sition to the other, in the debate, before His Majestie have ex<g ref="char:EOLhyphen"/>prest His mind concerning the Proposition first entred into?</p>
+                  <p n="3">3. Whether they have power to give an entire Answer to His Majesties first Proposition, before His Majesties Re<g ref="char:EOLhyphen"/>ply to any part thereof, or to passe from one part of that Proposition to another part of the same, before His Maje<g ref="char:EOLhyphen"/>stie have given a Reply concerning that part?</p>
+                  <p n="4">4. Whether in case His Majesties Answer or Reply to any part of either Proposition doe not satisfie them, they have power to send up that His Answer or Reply to both Houses, and proceed upon the debate of another part of the same?</p>
+                  <p n="5">
+                     <pb n="2" facs="tcp:204607:3"/>5. Whether they have power to conclude those two Propositions?</p>
+                  <p n="6">6. Whether they have Power to presse or consent unto the execution of either of these two Propositions, or any part of them, till the whole Treaty be agreed upon?</p>
+               </div>
+               <div type="document">
+                  <head>
+                     <hi>THE</hi> COMMITTEE OF LORDS &amp; COMMONS appointed to attend His MAjESTIE upon the Treaty, doe humbly returne these Answers to the Questions <hi>propounded by His</hi> Majestie. <hi>March,</hi> 25. 1643.</head>
+                  <p>
+                     <note place="margin">To the first.</note>THEY are injoyned not to shew or discover their Instructions, or to give any Copie of them.</p>
+                  <p>
+                     <note place="margin">To the second.</note>Concerning His Majesties first Proposition, and the first Proposition of both Houses of Parliament, they humbly conceive they may passe from the one Pro<g ref="char:EOLhyphen"/>position to the other after that His Majestie hath gi<g ref="char:EOLhyphen"/>ven His Answer to the particular part of either Proposition that shall be in debate.</p>
+                  <p>
+                     <note place="margin">To the third.</note>They humbly conceive, That they are to receive His Majesties reply to that part of the Proposition to which they give their Answer, before they proceed to any other part of either Proposition.</p>
+                  <p>
+                     <note place="margin">To the fourth.</note>They humbly conceive, That when they have received His Majesties Answer or Reply to any part of either Proposition, wherein they are not satisfied, they are to send that His Majesties Answer, or Reply to both Houses, and in the meane time may proceed to another part of either Proposition.</p>
+                  <p>
+                     <note place="margin">To the fifth.</note>They humbly conceive they may conclude these two Propositions if they be agreed unto according to their Instructions.</p>
+                  <p>
+                     <note place="margin">To the sixth.</note>They humbly conceive they may presse and con<g ref="char:EOLhyphen"/>sent
+<pb n="3" facs="tcp:204607:3"/> unto the execution of the two Propositions, ac<g ref="char:EOLhyphen"/>cording to their Instructions, before the whole trea<g ref="char:EOLhyphen"/>ty be agreed upon.</p>
+               </div>
+               <div type="documents">
+                  <head>THE PAPERS CONCERNING leave to repaire to his MAJESTIE.</head>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 27. 1643.</head>
+                     <p>VVHereas we humbly presented to Your Majestie severall Answers to Your Majesties demands in your first Propo<g ref="char:EOLhyphen"/>sition, and in reply to those answers, we have received severall Pa<g ref="char:EOLhyphen"/>pers from Your Majestie. Our humble desires are that Your Maje<g ref="char:EOLhyphen"/>stie would be pleased to give us leave to repaire unto you, for our farther satisfaction upon any doubts which shall arise amongst us in those Papers we have already received, or any other which we shall hereafter receive from Your Majestie, before such time as we shall transmitt them to both Houses of Parliament.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Peirrepoint.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>March. 28. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majestie is pleased, that the <hi>Committee</hi> of both Houses repaire unto Him for their further satisfaction upon any doubts which shall arise a<g ref="char:EOLhyphen"/>mongst them, in the Papers they have already re<g ref="char:EOLhyphen"/>ceived, or any other which they shall hereafter receive from His Majestie, &amp; to which they shall not have acquiesced, be<g ref="char:EOLhyphen"/>fore they transmitt them to both Houses of Parliament.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <pb n="4" facs="tcp:204607:4"/>
+                  <head>THE PAPERS CONCERNING the REVENUE.</head>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 26. 1643. To that part of Your MAIESTIES first Proposition concerning Your MAIESTIES owne Revenue, wee give this answer.</head>
+                     <p>THE two Houses of <hi>Parliament</hi> have not made use of Your <hi>Maiesties</hi> owne Revenue, but in a very small proportion, which for a good part hath been imployed in the maintenance of Your <hi>Maiesties</hi> Children, according to the allowance established by Your Selfe. And the two Houses of <hi>Parliament</hi> will satisfie what shall remaine due to Your <hi>Maiesty</hi> of those summes received out of Your <hi>Maiesties</hi> owne Revenue. And will leave the same to Your <hi>Ma<g ref="char:EOLhyphen"/>iestie</hi> for the time to come.</p>
+                     <p>Wee likewise humbly propose to Your <hi>Maiesty,</hi> that You will restore what hath been taken for Your <hi>Maiesties</hi> use, upon any of the Bills assigned to other purposes, by severall Acts of <hi>Parliament,</hi> or out of the provision made for the Warre of <hi>Ireland.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armine.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>March. 26. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty knowes not what Proportion of His Revenue hath been made use of by His two Houses of Parliament, but He hath Reason to beleeve, that if much of it hath not been used, very much remaines still in their hands, His
+<pb n="5" facs="tcp:204607:4"/> whole Revenue being so seized and stopped by the orders of one or both Houses, even to the taking away of His Mo<g ref="char:EOLhyphen"/>ney out of His Exchequer and Mint, and Bonds (forced from His Cofferers Clerks) for the Provision of His Maje<g ref="char:EOLhyphen"/>sties Houshold, that very little hath come to His Majesties use for His owne support. He is well contented to allow whatsoever hath been imployed in the maintenance of His Children, and to receive the Arreares due to Himselfe, and to be sure of His owne for the future.</p>
+                     <p>He is likewise willing to restore all Moneys taken for His Majesties use by any Authority from Him, upon any Bills assigned to other purposes; His Majesty being assured He hath Received very little or nothing that way, and expects that satisfaction be made for all those severall vast summes received &amp; diverted to other purposes, by orders of one or both Houses, which ought to have been paid upon the Act of Pacification to His Subjects of <hi>Scotland,</hi> or imployed for the discharge of the Debts of this Kingdome, and by other Acts of Parliament for the releife of His poor Prote<g ref="char:EOLhyphen"/>stant Subjects of <hi>Ireland.</hi>
+                     </p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>March. 27. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty desires to be resolved by the Committee from both Houses, whether their Proposition to His Majesty to restore what hath been taken for His Majesties use upon any of the Bills, <hi>&amp;c.</hi> be a new demand, or a con<g ref="char:EOLhyphen"/>dition
+<pb n="6" facs="tcp:204607:5"/> upon which only that is granted which goes be<g ref="char:EOLhyphen"/>fore?</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March</hi> 27. 1643.</head>
+                     <p>VVHereas Your Majesty desired to be resolved by us, whe<g ref="char:EOLhyphen"/>ther the Proposition to Your Majesty to restore what hath been taken for Your Majesties use upon any of the Billes &amp;c. be a new demand, or a Condition upon which only that is granted which goes before.</p>
+                     <p>We humbly conceive it to be no new demand, but whether it be such a Condition upon which only that which goes before is granted we are not able to resolve.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>March <hi>27. 1643.</hi> Whereas we have received Your Majesties Answer of the <hi>26.</hi> of this instant to ours of the same date, concerning Your Maje<g ref="char:EOLhyphen"/>sties own Revenue.</head>
+                     <p>VVE humbly desire to know of Your Majesty, if You will not accompt Your own Revenue to be sure for the fu<g ref="char:EOLhyphen"/>ture, if both Houses of Parliament doe leave it in the same way as it was before these troubles did begin.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="7" facs="tcp:204607:5"/>
+                     <head>March. 27. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty did intend in his former Answer by those words (of being sure of His own for the future) that no restraints or Interruption should be made by one or both Houses in and upon His Majesties Revenue, but that it should be left in the same way it was before these troubles did begin.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>March. 28. 1643.</head>
+                     <p>VVEE shall transmit Your Majesties answer, to that part of Your Proposition concerning Your Revenue, to both Houses of Parliament, without farther Reply.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Peirrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armyne,</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <pb n="8" facs="tcp:204607:6"/>
+                  <head>THE PAPERS CONCERNING the Magazines.</head>
+                  <div type="document">
+                     <head>March. <hi>26. 1643.</hi> To that part of Your Majesties first Proposition concerning Your <hi>Magazines,</hi> we humbly give this Answer.</head>
+                     <p>THat all the Armes and Ammunition, taken out of Your Maje<g ref="char:EOLhyphen"/>sties Magazines, which shall remaine in the hands of both Hou<g ref="char:EOLhyphen"/>ses of Parliament, shall be delivered into Your Stores, &amp; whatsoever shall be wanting they will in convenient time supply in kind, ac<g ref="char:EOLhyphen"/>cording to the Propositions which they have received. We like<g ref="char:EOLhyphen"/>wise humbly propose unto your Majesty, that the persons to whose charge those publique Magazines shall be committed, being nomi<g ref="char:EOLhyphen"/>nated by Your Majesty, may be such as the two Houses of Parlia<g ref="char:EOLhyphen"/>ment shall confide in. And that Your Majesty will restore all such Armes and Ammunition as have been taken for Your Majesties use from the severall Counties, Cities and Townes.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 27. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty is content that all the Armes and Ammunition taken out of His Magazines, which doe now remaine in the hands of both Houses, or of Persons employed by them, be forthwith delivered into such of His Stores as His Majesty shall appoynt, and that whatsoever shall be
+<pb n="9" facs="tcp:204607:6"/> wanting of the Proportions taken out from thence by them, be supplyed by them with all convenient speed in kinde. Which shall be committed to, and continued in the custo<g ref="char:EOLhyphen"/>dy of the sworn Officers, to whose Places the same belongs. And if any of the said Officers shall have forfeited, or shall forfeit that trust by any Misdemeanours, His Majesty will by no means defend them from the Iustice of the Law.</p>
+                     <p>For the restoring all such Armes and Ammunition as have been taken for His Majesties use from the severall Counties, Cities and Townes, His Majesty being compel<g ref="char:EOLhyphen"/>led to take them, His own being taken from Him, did it al<g ref="char:EOLhyphen"/>waies with this Caution and Promise to the Places from whence He took them, that He would, by the blessing of God, restore them againe, and make recompence out of His own Stores, as soon as it should be in His Power; which Promise He will make good to them; expecting that such Armes and Ammunition as have been taken from the seve<g ref="char:EOLhyphen"/>rall Counties, Cities and Townes, for the use of the Ar<g ref="char:EOLhyphen"/>mies under the Command of the Earle of <hi>Essex,</hi> be likewise restored to them.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>March <hi>28. 1643.</hi> Whereas we have received Your Majesties answer of the <hi>27.</hi> of this Moneth, to ours of the <hi>26.</hi> of this instant, con<g ref="char:EOLhyphen"/>cerning Your Majesties Magazines.</head>
+                     <p>VVEE humbly desire to know of Your Maiesty what time you intend, by the expression in the words (be forth<g ref="char:EOLhyphen"/>with delivered.)</p>
+                     <p>We likewise humbly desire to know in what places Your Maje<g ref="char:EOLhyphen"/>sty
+<pb n="10" facs="tcp:204607:7"/> would have Your Stores, and who are the sworn Officers Your Majesty intends, that according to our Instructions we may trans<g ref="char:EOLhyphen"/>mit their names to both Houses of Parliament.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March</hi> 28. 1643.</head>
+                     <p>HIs Majesty intended by that Expression (be forth<g ref="char:EOLhyphen"/>with delivered) as soon as the Treaty shall be conclu<g ref="char:EOLhyphen"/>ded, and agreed on.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March</hi> 29. 1643,</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>He place of Store into which His Majesty is con<g ref="char:EOLhyphen"/>tent that the Armes and Ammunition, taken out of His Majesties Magazines, be delivered, is His Tower of <hi>London;</hi> and the Officers He intends, are such as by Patent ought to receive and keep the same.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March</hi> 29. 1643.</head>
+                     <p>VVEE humbly desire according to our Instructions, that the persons to whose charge the publique Magazines should be committed, being nominated by Your Majesty, should be such as the Lords and Commons should confide in.</p>
+                     <p>We, not knowing whether the two Houses will confide in the Persons Your Majesty mentions, must transmit their names to both
+<pb n="11" facs="tcp:204607:7"/> Houses of <hi>Parliament</hi> to receive their farther Instructions.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VVill. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 5. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty conceives His Answer concerning the Persons to whose custody His Magazines shall be committed, to be very cleere and suffi<g ref="char:EOLhyphen"/>cient, and shall forbeare any more particular Nomination of them, the two Houses well knowing whether they have any just exceptions to make against any of them, which if they have, His Majesty will leave them to the due course of Iustice.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 10. 1643.</head>
+                     <p>BY Instructions yesterday received from both Houses of Parlia<g ref="char:EOLhyphen"/>ment, we are commanded humbly to desire your Majesty to make a further Answer to that clause of the first Proposition which concernes the Magazines; and we are humbly to acquaint Your Ma<g ref="char:EOLhyphen"/>jesty, that the two Houses of Parliament doe not think fit to inlarge the time of the Treaty beyond the twenty dayes, formerly limited, to be reckoned from the five and twentieth of <hi>March</hi> last, which can admit of no alteration or inlargement without manifold preju<g ref="char:EOLhyphen"/>dice and danger to the whole Kingdome.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armine.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="12" facs="tcp:204607:8"/>
+                     <head>
+                        <hi>April.</hi> 14. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty having made severall Answers to that Clause of the first Proposition, which concernes the Magazines, knowes not what Answer to make further, except He were informed what part of the Propositions made to Him was not cleerly answered, or had Reasons given Him to change and alter the Answer already made; neither of which is yet done. And He is very sory that both Hou<g ref="char:EOLhyphen"/>ses of Parliament have not thought fit to enlarge the pow<g ref="char:EOLhyphen"/>er of the Committee, (whereby lesse time would have ser<g ref="char:EOLhyphen"/>ved for the Treaty) &amp; are so absolutely resolved not to en<g ref="char:EOLhyphen"/>large the time of the Treaty beyond the twenty dayes which (by Messages and attending the Instructions of the House) are so neare spent, notwithstanding all possible rea<g ref="char:EOLhyphen"/>dinesse in His Majesty, &amp; which in truth might have ended all the Propositions, if sufficient authority had been given to the persons imployed to debate and conclude: neither can His Majesty understand why an Alteration or Inlargement, in the point of time, cannot be admitted without manifold prejudice and danger to the whole Kingdome. He prayes to God, that an Aversnesse to such an alteration and inlarge<g ref="char:EOLhyphen"/>ment may not prove an unspeakable prejudice and danger to the whole Kingdome.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <pb n="13" facs="tcp:204607:8"/>
+                  <head>THE PAPERS CONCERNING the Townes, Forts, Cinque-Ports, &amp;c.</head>
+                  <div type="document">
+                     <head>March. <hi>27. 1643.</hi> To that part of Your Majesties first Proposition, which con<g ref="char:EOLhyphen"/>cernes Your Maiesties <hi>Townes</hi> and <hi>Forts,</hi> VVe humbly give this Answer.</head>
+                     <p n="1">1. THat the two Houses of Parliament will remove the Garri<g ref="char:EOLhyphen"/>sons cut of all Townes &amp; Forts in their hands, wherein there were no Garrisons before these troubles, and sleight all Fortificati<g ref="char:EOLhyphen"/>ons made since that time, and those Townes and Forts to continue in the same condition they were in before, and that those Garri<g ref="char:EOLhyphen"/>sons shall not be renewed, nor the Fortifications repaired, without consent of Your Majesty and both Houses of Parliament.</p>
+                     <p n="2">2. That for those Townes and Forts which are within the Iu<g ref="char:EOLhyphen"/>risdiction of the Cinque-Ports, they shall be delivered up into the hands of such a Noble Person as Your MAIESTY shall appoint to be Warden of the Cinque-Ports, being such a one as they shall confide in.</p>
+                     <p n="3">3. That the Towne of <hi>Portesmouth</hi> shall be reduced to the number of the Garrison as was at the time, when the Lords and Commons undertook the custody thereof; and such other Forts, Castles and Townes as were formerly kept by Garrisons, as have been taken by both Houses of Parliament into their care and custody, since the beginning of these troubles, shall be reduced to such pro<g ref="char:EOLhyphen"/>portion of Garrison as they had in the yeare 1636. And shall be so continued. And that all the said Townes, Forts, and Castles shall be delivered up into the hands of such persons of quality and trust, to be likewise nominated by Your Majesty, as the two Houses of Parlia<g ref="char:EOLhyphen"/>ment shall confide in.</p>
+                     <p n="4">4. That the Warden of the Cinque-Ports and all Governors and Commanders of Townes, Castles, and Forts, shall keep the same
+<pb n="14" facs="tcp:204607:9"/> Townes, Castles and Forts respectively for the service of Your Ma<g ref="char:EOLhyphen"/>jesty, and the safety of the Kingdome; and that they shall not admit into any of them any forraign Forces, or any other Forces raised without Your Majesties Authority, and consent of the two Houses of Parliament; and they shall use their utmost indeavours to suppresse all Forces whatsoever, raised without such authority and consent; and they shall seize all Armes and Ammunition provided for any such Forces.</p>
+                     <p n="5">5. They likewise humbly propose to Your Majesty, that You would remove the Garrisons out of <hi>New-Castle,</hi> and all other Townes, Castles, and Forts, where any Garrisons have been placed by Your Majesty since these troubles, and that the Fortifications be likewise sleighted, and the Townes and Forts left in such State and condition as they were in the yeare 1636.</p>
+                     <p n="6">6. That all other Townes, Forts, and Castles, where there have been formerly Garrisons before these troubles, may be committed to the charge of such persons to be nominated by Your Majesty, as both Houses of Parliament shall confide in, and under such Instructi<g ref="char:EOLhyphen"/>ons as are formerly mentioned.</p>
+                     <p n="7">7. And that those new Garrisons shall not be renewed, nor their Fortifications repaired without consent of Your Majesty, and both Houses of Parliament.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VVill. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VVill. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 28. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS <hi>Majesty</hi> is content that all the Garrisons in any Townes and Forts in the hands of any Persons imployed by the two Houses of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> wherein there were no Garrisons be<g ref="char:EOLhyphen"/>fore these troubles, be removed, and all Forti<g ref="char:EOLhyphen"/>fications, made since that time, may be sleighted, and those
+<pb n="15" facs="tcp:204607:9"/> Townes &amp; Forts shall, for the future, continue in the same condition they were in before.</p>
+                     <p n="1">1. For the Cinque-Ports, they are already in the Custo<g ref="char:EOLhyphen"/>dy of a Noble Person, against whom His <hi>Majesty</hi> knowes no just exceptions, and who hath such a Legall Interest therein, that His <hi>Majesty</hi> cannot with Iustice remove Him from it, untill some sufficient Cause be made appeare to him; but is willing if he shall at any time be found guilty of any thing that may make him unworthy of that Trust, that he may be proceeded against according to the Rules of Iustice.</p>
+                     <p n="2">2. The Towne of <hi>Portesmouth,</hi> and all other Forts, Castles and Townes, as were formerly kept by Garrisons, shall be reduced to their antient proportion, and the Go<g ref="char:EOLhyphen"/>vernment of them put into the hands of such Persons against whom no just exceptions can be made, all of them being before these troubles by Letters Patents granted to severall Persons, against any of whom His Majesty knowes not any Exceptions, and who shall be removed if just cause shall be given for the same.</p>
+                     <p n="3">3. The Warden of the Cinque-Ports, and all Gover<g ref="char:EOLhyphen"/>nors and Commanders of Townes, Castles, and Forts, shall keep the same Townes, Castles, and Forts, as by the Law they ought to doe, for His Majesties service, and the safety of the Kingdome; and they shall not admit into any of them any forraign Forces, or other Forces raised or brought in contrary to the Law, but shall use their utmost endeavour to suppresse all such Forces, and shall seize all Armes and Am<g ref="char:EOLhyphen"/>munition, which by the Lawes and Statutes of the King<g ref="char:EOLhyphen"/>dome they ought to seize.</p>
+                     <p n="4">4. The Garrisons of <hi>New-Castle,</hi> and all other Townes, Castles, and Forts, in which Garrisons have been placed by His Majesty since these troubles, shall be removed, and all
+<pb n="16" facs="tcp:204607:10"/> the Fortifications shall be fleighted, and the Townes and Forts left in such state and condition as they were in the yeare, 1636.</p>
+                     <p>All other Townes, Forts, and Castles, where there have been formerly Garrisons before these troubles, shall be com<g ref="char:EOLhyphen"/>mitted to the charge of such Persons, and under such cauti<g ref="char:EOLhyphen"/>ons and limitations as His Majesty hath before exprest.</p>
+                     <p>And no new Garrisons shall be renewed, nor their For<g ref="char:EOLhyphen"/>tifications repaired, otherwise then as by the Lawes and Sta<g ref="char:EOLhyphen"/>tutes of the Kingdom, they may or ought to be.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 29. 1643.</head>
+                     <p>COncerning the appointing of the Warden of the Cinque-Ports, and Governors of Your Majesties Townes, Castles, and Forts, we humbly desire to know if Your Majesties Reply doth intend, that both Houses of <hi>Parliament</hi> may expresse their confidence of the persons to whose trust those places are to be committed, for that we are directed by our Instructions, that if Your Majesty be pleased to assent thereunto, that You would nominate Persons of Quality to receive the charge of them. That we may forthwith certifie both Houses of <hi>Parliament,</hi> that thereupon they may expresse their con<g ref="char:EOLhyphen"/>fidence in those persons, or humbly beseech Your <hi>Maiesty</hi> to name others; none of which persons to be removed, during three yeares next ensuing, without just cause to be approved by both Houses of <hi>Parliament,</hi> and if any be so removed, or shall dye within the said space, the persons to be put in the same offices shall be such as both Houses shall confide in.</p>
+                     <p>Wee humbly desire to know if Your <hi>Maiesty</hi> intends the Garri<g ref="char:EOLhyphen"/>son of <hi>Portesmouth,</hi> to be of such a proportion, as it was about the yeare 1641. about which time a new supply was added to the for<g ref="char:EOLhyphen"/>mer Garrison to strenghen it, which both Houses of <hi>Parliament</hi> think necessary to continue.</p>
+                     <pb n="17" facs="tcp:204607:10"/>
+                     <p>We humbly desire Your Majesty would be pleased to give a more full answer to this clause, that they should not admit into them any Forreigne or other Forces, <hi>Raised without Your Majesties au<g ref="char:EOLhyphen"/>thority and consent of the two Houses of Parliament,</hi> and that they shall use their utmost endeavours to suppresse all Forces whatsoever, <hi>Raised without such Authority and Consent,</hi> and that those Garri<g ref="char:EOLhyphen"/>sons should not be renewed, or their Fortifications repaired without consent of Your Majesty and both Houses of Parliament.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 5. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty doth not intend that both Houses of Parliament shall expresse their Confidence of the Persons to whose trust the <hi>Cinque-ports,</hi> or other His Majesties Townes, Ca<g ref="char:EOLhyphen"/>stles and Forts now are or shall be commit<g ref="char:EOLhyphen"/>ted, but only that they shall have liberty upon any just Ex<g ref="char:EOLhyphen"/>ceptions to proceed against any such Persons, according to Law; His Majesty being resolved not to Protect them a<g ref="char:EOLhyphen"/>gainst the publique Iustice. And well knowing that when any of those places shall be voyd, the Nomination and free Election is a Right belonging to, and inherent in His Maje<g ref="char:EOLhyphen"/>sty. And having been enjoyed by all His Royall Progeni<g ref="char:EOLhyphen"/>tors, His Majesty will not believe that His well-affected Subjects will desire to limit Him in that Right.</p>
+                     <p>His Majesty intends the Garrison of <hi>Portsmouth</hi> to be of such a Proportion as it was in the yeare, 1641. Except He finds good cause to enlarge or diminish that Proportion.</p>
+                     <p>His Majesty cannot give a more full Answer to that Clause concerning the Admission of Forces into any of His
+<pb n="18" facs="tcp:204607:11"/> Forts, Castles and Townes, then He hath already given, His Majesty having therein made the Lawes and Statutes of the Kingdom the Rule of what is, or what is not to be done, Which will be alwaies the most impartiall Iudge between Him and His People.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 10. 1643.</head>
+                     <p>BY Instructions yesterday received from both Houses of Parlia<g ref="char:EOLhyphen"/>ment, we are commanded humbly to desire another answer from Your Majesty concerning the Cinque-ports, Townes, Forts and Castles, Your Majesties former answers concerning them being, in the most materiall poynts, expresse denialls, as both Houses of Par<g ref="char:EOLhyphen"/>liament understand them.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 14. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty will not at this time Remem<g ref="char:EOLhyphen"/>ber the many Acts of Grace and Favour He hath passed this Parliament for the good of His People; But He must say, He hath not denied any one thing proposed to Him by both Houses, which in Iustice could be required of Him, or in reason expected; and He hath been and is still so unwilling to give a deniall to both His Houses, that as they shall be sure to re<g ref="char:EOLhyphen"/>ceive none to any Proposition they shall make of Right, so in matters of Grace and favour, Hee shall be willing to re<g ref="char:EOLhyphen"/>ceive any Information and Reason, which at any time may
+<pb n="19" facs="tcp:204607:11"/> invite Him to Consent, and therefore will gladly receive a<g ref="char:EOLhyphen"/>ny reason from the Committee, or both Houses, which may induce His Majesty to give another Answer, then what He hath already given in the poynt of the Cinque-Ports, Forts and Castles; but till such be given, He cannot consent to dispossesse any of His Servants of what they are legally pos<g ref="char:EOLhyphen"/>sest, without a Iust Cause Exprest, or to quit His own Right of sole disposing of their commands, no other cau<g ref="char:EOLhyphen"/>ses yet appearing to Him, then that the places they com<g ref="char:EOLhyphen"/>mand have been taken from Him.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>Aprill</hi> 14. 1643.</head>
+                     <p>YOur Majesty, in one of Your papers this day delivered unto us, mentions that You would gladly receive any reason from both Houses, or their Committee, which may induce Your Majesty to give another answer then what You have already given in the poynt of the Cinque-ports, Forts, Castles, and Magazines.</p>
+                     <p>We did according to our Instructions, Humbly desire Your Ma<g ref="char:EOLhyphen"/>jesty that the Cinque-ports, Forts and Castles might be put into the hands of such Noble Persons, and Persons of Quality and Trust, to be nominated by Your Majesty, as the two Houses of Parliament should confide in, and to be kept for Your Majesties service, and the safety of the Kingdom, that no forraigne Forces, or other Forces, raised without Your Majesties authority, and consent of the two Houses of Parliament, should be admitted into any of them, and the Commanders to use their utmost endeavours to suppresse all Forces raised without such authority and consent, and to seize all Armes and Ammunition provided for any such Forces.</p>
+                     <p>Vnto which we hūbly desire Your Majesties gratious assent, &amp; to our other desires concerning Your Majesties first Proposition, &amp; the first Propositiō of both Houses of Parliament, for that we hūbly conceive Your consent thereunto will be the best meanes for such a Peace to be made, as will be safe firme &amp; lasting, the which is not to be hoped
+<pb n="20" facs="tcp:204607:12"/> for, except there be a cure for Feares and Iealousies, for which an apparent remedy is to disband all Forces, and the same to be so mu<g ref="char:EOLhyphen"/>tually done, as neither part to have any force remaining, of which the other may be Iealous or in feare, but if for other causes, not concer<g ref="char:EOLhyphen"/>ned in these unhappy differences, Forces are to be retained, as in the Cinque-ports, and in some Forts, Townes, and Castles for the de<g ref="char:EOLhyphen"/>fence of the whole Kingdom against Forraigne Enemies, that then the same may remaine in the hands of such Persons, with such Powers, as both parts might believe themselves secure; for if the same places were considered in relation only to these unnaturall di<g ref="char:EOLhyphen"/>stempers, and to the setling thereof, the Forces in them were like<g ref="char:EOLhyphen"/>wise to be disbanded.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 15. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">A</seg>S His Majesty was and is very desirous to receive any Reason from both Houses, or their Commit<g ref="char:EOLhyphen"/>tee, which might induce His Majesty to give other Answers, if what He hath or shall give doe not sa<g ref="char:EOLhyphen"/>tisfy, so He rather expected those reasons should have had their foundation in the Law of the Land, and have shewed Him that by Law He had not the Right He pretended, or that by that, or by some fundamentall Law, they had a Right superior to His in what was now in Question, Or have shewed Him some Legall Reason why the Persons trusted by Him were uncapable of that Trust, then only have insisted upon Feares and Iealousies, of which as Hee knowes not the ground, so He is ignorant of the Cure. But this His Majesty knowes, that if readinesse to acknowledge, retract and provide against for the future any thing of error that had hapned against Law, and having actually pass'd
+<pb n="21" facs="tcp:204607:12"/> more important Bills, and parted with more of His known Rights for the satisfaction of His Subjects, then not only any one but all His Predecessors, would have been thought a sufficient Remedy for Fears and Iealousies, the Kingdom might still have enjoyed a safe, firme and lasting Peace, and those would not first have been made a Reason to seaze up<g ref="char:EOLhyphen"/>on His Rights, and then after have been made an Argument to perswade Him to part with them. And His Majesty won<g ref="char:EOLhyphen"/>ders the Committee should not see, that this Argument might extend to the depriving Him of, or at least sharing with Him in, all His just Rigall Power (since Power as well as Forces may be the object of Feares and Iealousies, and there will be alwaies a Power left to hurt, whilest there is any left to protect and defend;) And that if those Rights which He received from His Predecessors were really so formidable, That would have been more fear'd before, which is now feard so much, and His Forts and Castles would either not have been attempted, or at least have ena<g ref="char:EOLhyphen"/>bled Him to defend and keep them, and have kept this from being a Question now between them. Which since they could not doe, His Majesty (if He had as much inclination, as He hath more Right, to Feares and Iealousies) might have more reason to insist upon some Addition of Power, as a Security to enable Him to keep His Forts, when He hath them, then they to make any Difficulty to restore them to Him in the same condition they were before. But as His Majesty contents Himselfe with, so, He takes God to witnesse, His greatest desire is alwaies to observe and main- the Law of the Land, and expects the same from His Sub<g ref="char:EOLhyphen"/>jects, and believes the mutuall observance of that Rule, and neither of them to feare what the Law fears not, to be on both parts a better Cure for that dangerous Disease of
+<pb n="22" facs="tcp:204607:13"/> Fears and Iealousies, and a better means to establish a hap<g ref="char:EOLhyphen"/>py and a perpetuall Peace, then for His Majesty to devest Himselfe of those Trusts which the Law of the Land hath setled in the Crowne alone, to preserve the Power and Dignity of the Prince, for the better Protection of the Sub<g ref="char:EOLhyphen"/>ject, and of the Law, and to avoyd those dangerous Distra<g ref="char:EOLhyphen"/>ctions, which the interest of any Sharers with Him would have infallibly produced.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <head>THE PAPERS CONCERNING the Shippes.</head>
+                  <div type="document">
+                     <head>March <hi>27. 1643.</hi> To that part of Your Majesties first Proposition, which concernes Your Ships, we humbly give this Answer.</head>
+                     <p>THat the Ships shall be delivered into the charge of such a Noble person as Your Majesty shall nominate to be Lord High Admi<g ref="char:EOLhyphen"/>rall of England, and the two Houses of Parliament confide in, who shall receive the same Office by Letters Patents, <hi>quàm diu se bene gesserit,</hi> and shall have power to nominate and appoynt all subordi<g ref="char:EOLhyphen"/>nate Commanders and Officers, and have all other powers apper<g ref="char:EOLhyphen"/>taining to the Office of High-Admirall, which Ships he shall im<g ref="char:EOLhyphen"/>ploy for the defence of the Kingdom against all forraine forces whatsoever, and for the safeguard of Merchants, secureing of Trade, and the guarding of <hi>Ireland,</hi> and the intercepting of all supplies to be carried to the Rebells, and shall use his utmost endeavour to sup<g ref="char:EOLhyphen"/>presse all forces which shall be raised by any Person without Your
+<pb n="23" facs="tcp:204607:13"/> Majesties authority, and consent of the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, and shall seize all Armes and Ammunition provided for sup<g ref="char:EOLhyphen"/>ply of any such Forces.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 28. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty expects that His Own Ships be forth<g ref="char:EOLhyphen"/>with delivered to Him, as by the Law they ought to be. And when He shall please to nominate a Lord High-Admirall of England, it shall be such a Noble Person against whom no just exception can be made, and if any shall be, His Majesty will alwaies leave him to his due tryall and examination, and shall grant His Office to him by such Letters Patents as have been used; In the mean time His Majesty will governe the said Admiralty by Commission as in all times hath been accustomed. And whatever Ships shall be set forth by His Majesty, or His Au<g ref="char:EOLhyphen"/>thority, shall be employed for the defence of the Kingdom against all Forraigne Forces whatsoever, for the safeguard of Merchants, securing of Trade, guarding of <hi>Ireland,</hi> and the intercepting of all supplies to be carried to the Rebells, and shall use their utmost endeavours to suppresse all For<g ref="char:EOLhyphen"/>ces which shall be raised by any Person whatsoever, against the Lawes and Statutes of the Kingdome, and to seize all Armes and Ammunition provided for the supply of any such Forces.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="24" facs="tcp:204607:14"/>
+                     <head>
+                        <hi>March</hi> 29. 1643.</head>
+                     <p>VVEE humbly desire Your Majesty would be pleased to give a more full answer to the clause, for the Ships to be delivered into the charge of such a Noble Person, as Your Majesty shall nominate to be Lord High-Admirall of England, and the two Houses of Parliament confide in, who shall receive the same Office by Letters patents <hi>Quàm diu se bene gesserit.</hi>
+                     </p>
+                     <p>And to that clause, to suppresse all forces which shall be raised by any person without Your Majesties authority, and consent of the Lords and Commons in Parliament.</p>
+                     <p>Whereunto if Your Majesty shall please to give Your assent, we conceive we are then directed by our Instructions, humbly to desire Your Majesty to nominate such a noble person to be Lord High-Ad<g ref="char:EOLhyphen"/>mirall of England, that we may forthwith certify both Houses of Parliament; that thereupon they may expresse their confidence in that Person, or humbly beseech Your Majesty to name another, and that in case such Noble Person, who shall be appoynted to be Lord High-Admirall of England, shall be removed, or shall dye within the space of three Years next ensuing, that the Person to be put in the same Office shall be such, as both Houses shall confide in.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>Aprill</hi> 5. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty conceives His former Answer of the 28. of <hi>March,</hi> concerning His Ships, to be so full, that He can adde nothing thereunto in any part of it.</p>
+                     <p>His Majesty conceiving it all the Iustice in the World for Him to insist, that what is by Law His own,
+<pb n="25" facs="tcp:204607:14"/> and hath been contrary to Law taken from Him, be fully restored unto Him, without conditioning to impose any new Limitations upon His Majesty or his Ministers, which were not formerly required from them by Law, and think<g ref="char:EOLhyphen"/>ing it most unreasonable to be prest to diminish His owne Iust Rights Himselfe, because others have violated and usurped them.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 10. 1643.</head>
+                     <p>BY Instructions yesterday received from both Houses of Parlia<g ref="char:EOLhyphen"/>ment, we are commanded humbly to insist upon the desires of both Houses expressed in our former papers concerning the Ships. And both Houses of Parliament doe observe in your Majesties An<g ref="char:EOLhyphen"/>swer, not only a denyall to all their desires, but likewise a censure upon their proceedings.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Joh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 14. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty for the present forbeares any farther Answer touching His Ships, desiring first to receive the Answer of both Houses, to His Message of the twelfth of this Moneth; But His Majesty will howsoever, before their departure hence, give them a further Answer.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="26" facs="tcp:204607:15"/>
+                     <head>
+                        <hi>April.</hi> 15. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty gave so cleare a Reason to Iustifie what He insisted upon in the point of the Ships, that He cannot but wonder to see the same a<g ref="char:EOLhyphen"/>gaine prest to Him, and yet both the Reason He gave left unanswered, and no other Reason op<g ref="char:EOLhyphen"/>pos'd to weigh against it. His Majesties end in this, was not to lay any censure upon their proceedings, but it being necessary to the matter in question, for His Majesty to say what had been done, and the matter of fact being such as it seemes could not be repeated, but it must appeare to be cen<g ref="char:EOLhyphen"/>sured, His Majesty did not thinke himselfe bound to be so tender of seeming to censure their proceedings, as by wa<g ref="char:EOLhyphen"/>ving His owne true reasonable Iustifications to leave. His own naked and expos'd to a generall censure. And His Ma<g ref="char:EOLhyphen"/>jesty hopes that since they esteem his saying, that they have taken His Ships from Him contrary to Law, to be a Cen<g ref="char:EOLhyphen"/>sure, they will either produce that Law by which they took them, or free themselves from so just and unconfutable a Censure, by a speedy and unlimited restoration. Upon which demand His Majesties Care of His Antient and un<g ref="char:EOLhyphen"/>doubted Rights doth oblige Him to insist. And when His Majesty shall thinke fit to make an Admirall, as neer as He can, he shall be such an one against whom no just exception can be made, and if any shall be offered, He will readily leave him to the Tryall of the Law.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <pb n="27" facs="tcp:204607:15"/>
+                  <head>THE PAPERS CONCERNING an Oath for Officers.</head>
+                  <div type="document">
+                     <head>
+                        <hi>March.</hi> 29. 1643.</head>
+                     <p>VVEE are humbly to desire your Majesty, that all Generalls and Commanders in any of the Armies on either side, as likewise the Lord Admirall of <hi>England,</hi> the Lord Warden of the Cinque-Ports, all Commanders of any Ships, &amp; Commanders of any Town, Castle, or Fort, may take an oath to observe the Articles for<g ref="char:EOLhyphen"/>merly mentioned, and to use their utmost power to preserve the true reformed Protestant Religion, and the Peace of the Kingdom, against all Forraign Forces, and all other Forces raised without Your Maje<g ref="char:EOLhyphen"/>sties authority, and consent of the two Howses of Parliament.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>J. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 5. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty conceives the Oathes, which all these Officers are already by Law obliged to take, to be very fully sufficient; But if any thing shall be made appear unto Him necessary to be added thereunto, when there shall be a full and Peaceable Convention in Parliament, His Majesty will readily consent to an Act for such an Addition.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="28" facs="tcp:204607:16"/>
+                     <head>
+                        <hi>April.</hi> 10. 1643.</head>
+                     <p>BY Instructions yesterday received from both Houses of Parlia<g ref="char:EOLhyphen"/>ment, We are commanded humbly to inform Your Majesty, That both Houses of Parliament conceive your ordinary Oathes of Your Officers, mentioned in Your Answer concerning the same, are not sufficient to secure them against the extraordinary Causes of Iea<g ref="char:EOLhyphen"/>lousie, which have been given them in these troublesome times. And that Your Majesties Answer layes some Taxe upon the Parliament, as if defective, and thereby uncapable of making such a provisionall Law for an Oath. Therefore we are humbly to insist upon our former desires for such an Oath, as is mentioned in those papers, which we have formerly presented to your Majestie concerning this matter.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>J. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitlocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 14. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty did not refuse, by His former Answer, to consent to any such Oath as shall be thought necessary, though He did, and doth still, conceive the Oathes already setled by law to be sufficient; neither did he ever suppose the Parliament incapable of ma<g ref="char:EOLhyphen"/>king a provisionall Law for such an Oath; but as He would be willing to apply any proper Remedy to the Extraordi<g ref="char:EOLhyphen"/>nary Causes of Iealousies, if He could see that there were such causes, so he will be alwaies most exact in observing the Articles agreed on, in preserving the true Reformed Protestant Religion, and the Peace of the Kingdom against Forraigne Forces, and other Forces raised or employed a<g ref="char:EOLhyphen"/>gainst Law. And when both Houses shall prepare and pre<g ref="char:EOLhyphen"/>sent
+<pb n="29" facs="tcp:204607:16"/> such an Oath, as they shall make appear to His Majesty to be necessary to those Ends, his Majesty will readily con<g ref="char:EOLhyphen"/>sent to it.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <head>THE PAPERS CONCERNING Disbanding the Armies.</head>
+                  <div type="document">
+                     <head>March. <hi>28. 1643.</hi> His Majesties Answer to the first Proposition of both His Houses of Parliament.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty is as ready and willing, that all Armies be disbanded as any Person whatsoe<g ref="char:EOLhyphen"/>ver, and conceives the best way to it, to be a happy and speedy conclusion of the present Treaty, which (if both Houses will contribute as much to it, as His Majesty shall doe) will be suddenly ef<g ref="char:EOLhyphen"/>fected. And that this Treaty may the sooner produce that effect, His Majesty desires that the time given to the Com<g ref="char:EOLhyphen"/>mittee of both Houses to Treat may be enlarged.</p>
+                     <p>And as His Majesty desires nothing more then to be with His two Houses, so He will repaire thither as soon as He can possibly doe it with His Honour &amp; Safety.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="30" facs="tcp:204607:17"/>
+                     <head>March. <hi>29. 1643.</hi> Concerning Your <hi>Majesties</hi> Answer to the Proposition of both Houses for disbanding of the Armies.</head>
+                     <p>VVEE humbly desire to know, if by the words, <hi>By a happy and speedy Conclusion</hi> of the present Treaty, Your Ma<g ref="char:EOLhyphen"/>jesty doe intend a conclusion of the Treaty on your Majesties first Proposition, and their Proposition for disbanding the Armies, or a conclusion of the Treaty in all the Propositions of both parts.</p>
+                     <p>Wee have given speedy notice to both Houses of <hi>Parliament</hi> of your Majesties desires, that the time given to the Committee of both Houses to treat may be enlarged.</p>
+                     <p>To the last Clause we have no Instructions.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VVill. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 4. 1643.</head>
+                     <p>VVEE humbly acquaint your Majesty, that we received this morning the resolution of both Houses of Parliament, whereby farther time is given to us to treat upon the two first Pro<g ref="char:EOLhyphen"/>positions, <hi>viz.</hi> The first Proposition of your Majesties, and the first Proposition of both Houses. And that the time prescribed for the Treaty upon the two first Propositions, shall be untill friday night.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armine.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="31" facs="tcp:204607:17"/>
+                     <head>
+                        <hi>April.</hi> 5. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty intended by the words, <hi>By a happy and speedy Conclusion of the present Treaty,</hi> such a Conclusion of or in the Treaty, as there might be a cleer evidence to Himselfe and his good Subjects of a future Peace, and no ground left for the continuance or growth of these bloody dissentions; which, He doubts not, may be obtained, if both Houses shall con<g ref="char:EOLhyphen"/>sent, that the Treaty may proceed without further Interrup<g ref="char:EOLhyphen"/>tion or limitation of dayes.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>March</hi> 29. 1643.</head>
+                     <p>VVEE are directed by our Instructions humbly to desire your Majesties speedy and positive answer concerning the disbanding of the Armies, to which if your Majesty be pleased to as<g ref="char:EOLhyphen"/>sent, we are then to beseech your Majesty in the name of both Hou<g ref="char:EOLhyphen"/>ses, that a neer day may be agreed upon for the disbanding of all the Forces in the remote parts of <hi>Yorkeshire,</hi> and the other Northern Counties, as also in <hi>Lancashire, Cheshire,</hi> and in the Dominion of <hi>VVales,</hi> and in <hi>Cornewall,</hi> and <hi>Devonshire.</hi> And they being fully dis<g ref="char:EOLhyphen"/>banded, another day may be agreed on for the disbanding of all For<g ref="char:EOLhyphen"/>ces in <hi>Lincolnshire, Nottinghamshire, Leicestershire,</hi> and all other places, except at <hi>Oxford</hi> and the Quarters thereunto belonging, and <hi>VVindsor</hi> and the Quarters thereunto belonging. And that last of all, a speedy day may be appointed for the disbanding of those two Ar<g ref="char:EOLhyphen"/>mies at <hi>Oxford</hi> and <hi>Windsor,</hi> and all the Forces Members of either of them.</p>
+                     <p>That some Officers of both Armies may speedily meet to agree of the manner of the disbanding, and that fit persons may be ap<g ref="char:EOLhyphen"/>pointed by your Majestie, and both Houses of Parliament, who may
+<pb n="32" facs="tcp:204607:18"/> repair to the severall Armies, and see the disbanding put in speedy execution accordingly.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 5. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">W</seg>Hen the time for disbanding the Armies shall be agreed upon, His Majesty well approves that some Officers of both Armies may speedily meet to agree of the manner of disbanding, and that fit Persons may be appointed by His Majesty, and both Houses of Parliament, who may repair to the severall Armies, and see the disbanding speedily put in execution accordingly.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 6. 1643.</head>
+                     <p>VVE humbly desire to know, if by the words <hi>(By a happy and speedy conclusion of the present treaty)</hi> Your Majesty intends a conclusion of the present treaty on Your Maiesties first Pro<g ref="char:EOLhyphen"/>position, and the Proposition of both Houses for disbanding of the Armies, or a conclusion of the Treaty on all the Propositions of both parts.</p>
+                     <p>And what your Maiesty intends to be a cleare evidence to your selfe, and your good Subiects, of a future Peace, and no ground left for the continuance or growth of these bloody dissentions.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VVill. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VVill. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="33" facs="tcp:204607:18"/>
+                     <head>
+                        <hi>April.</hi> 6. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty desires to know from the Commit<g ref="char:EOLhyphen"/>tee of both Houses, whether they acquiesce with His Majesties Replies to their Answers concern<g ref="char:EOLhyphen"/>ing His first Proposition, which yesterday they received from Him, and to which they have yet made no returne.</p>
+                     <p>His Majesty likewise desires to know, whether they have yet received power and Instructions to Treat with His Majesty concerning His returne to His two Houses of Par<g ref="char:EOLhyphen"/>liament, which is a part of the first Proposition of both Houses.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 6. 1643.</head>
+                     <p>VVEE shall transmit Your Majesties Replies to our An<g ref="char:EOLhyphen"/>swers, concerning Your first Proposition, to both Houses of Parliament, without farther replye.</p>
+                     <p>We likewise humbly answer, that we have not received any power or Instructions to treat with Your Majesty concerning Your returne to Your two Houses of Parliament; but We assure our selves they will give Your Majesty satisfaction therein.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Peirrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="34" facs="tcp:204607:19"/>
+                     <head>
+                        <hi>Aprill</hi> 7. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>Is Majesty conceives His Answers already gi<g ref="char:EOLhyphen"/>ven (for He hath given two) to be very cleer and significant. And if the conclusion of the present Treaty on His Majesties first Proposi<g ref="char:EOLhyphen"/>tion, and the Proposition of both Houses, shall be so fully and perfectly made, that the Law or the Land may have a full, free, and uninterrupted Course, for the de<g ref="char:EOLhyphen"/>fence and preservation of the Rights both of His Majesty, both Houses, and His good Subjects, there will be thence a cleer evidence to His Majesty and His good Subjects of a future Peace, and no ground left for the continuance and Growth of these bloody Dissentions, and it will be such a conclusion as His Majesty intended.</p>
+                     <p>His Majesty never intending that both Armies should re<g ref="char:EOLhyphen"/>maine undisbanded untill all the Propositions of both sides were fully concluded. But His Majesty is very sory that in that poynt of the first Proposition of both Houses, which hath seemed to be so much wished, and which may be so concluded as alone much to conduce to the evidence desi<g ref="char:EOLhyphen"/>red, (<hi>viz.</hi> His Returne to both Houses, to which His Ma<g ref="char:EOLhyphen"/>jesty in His Answer hath expressed Himselfe to be most rea<g ref="char:EOLhyphen"/>dy, whensoever. He may doe it with Honour and safety) they have yet no manner of Power nor instructions so much as to treat with His Majesty.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <pb n="35" facs="tcp:204607:19"/>
+                     <head>
+                        <hi>April.</hi> 7. 1643.</head>
+                     <p>WEE have not transmitted Your Majesties answer to the Pro<g ref="char:EOLhyphen"/>position of Disbanding, wherein Your Majesty mentions Your selfe to be most ready to returne to both Your Houses of Parlia<g ref="char:EOLhyphen"/>ment, whensoever You may doe it with Honour and safety, for that we humbly conceive, we were to expect Your Majesties an<g ref="char:EOLhyphen"/>swer to that Proposition this day received, before we could give a due accompt thereof to both Houses of Parliament, the which wee will presently send away without farther reply.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 8. 1643.</head>
+                     <p>BY Instructions this day received from both Houses of Parlia<g ref="char:EOLhyphen"/>ment, we humbly conceive that we are to acquaint Your Ma<g ref="char:EOLhyphen"/>jesty, that they have taken into consideration Your Majesties an<g ref="char:EOLhyphen"/>swer to their reasons concerning the Cessation, wherein there are diverse expressions which will occasion particular replies, which at this time they desire to decline, their wishes and endeavours being earnestly bent upon the obtaining a speedy Peace, for which cause they doe not think good to consume any more of the time allowed for the Treaty, in any farther debates upon the Cessation, concern<g ref="char:EOLhyphen"/>ing which they find Your Majesties expressions so doubtfull, that it cannot be suddenly or easily resolved, and the remainder of the time for the whole Treaty, being but seaven daies, if the Cessation were presently agreed, it would not yeeld any considerable advantage to the Kingdom.</p>
+                     <p>Wherefore we are required to desire Your Majesty to give a speedy and positive answer to the first Proposition concerning the Disbanding, that so Your Subjects may not only have a shadow of Peace in a short time of Cessation, but the substance of it in such manner as may be a perpetuall blessing to them, by freeing the King<g ref="char:EOLhyphen"/>dom
+<pb n="36" facs="tcp:204607:20"/> from those miserable effects of warre, the effusion of English blood, and desolation of many parts of the Land.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. Whitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+               <div type="documents">
+                  <head>HIS MAIESTIES Gratious Message to both Houses, in <hi>Answer to the foregoing Paper.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">I</seg>F the Committee, according to His Ma<g ref="char:EOLhyphen"/>jesties Desire, had had but Power to a<g ref="char:EOLhyphen"/>gree in the wording of Expressions in the Articles of Cessation, His Majesties (which are as clear as the matter would beare, and as He could make them) had not appeared so doubtfull to any, but that the Cessation might have been suddenly and speedily resolved, and that long before this time. And if the Ex<g ref="char:EOLhyphen"/>pressions of both Houses in their Reasons had not necessita<g ref="char:EOLhyphen"/>ted His Majesty in His own Defence, to give such Answers as could not upon those poynts deliver Truth without some shew of sharpnesse, no expression of that kind in His Maje<g ref="char:EOLhyphen"/>sties Answer had given any pretence for the Rejection of, or refusing so much as to Treat upon the Cessation; Which (though it were at present for no long time, yet) was from the day named by themselves the 25. of <hi>March.</hi> Whereas His Majesty first mov'd for a Cessation and Treaty with<g ref="char:EOLhyphen"/>out any Limitation at all in the time of either; and His Ma<g ref="char:EOLhyphen"/>jesty was most ready to have enlarged the time (so that in
+<pb n="37" facs="tcp:204607:20"/> the mean while the poynt of Quarters might be so setled, as that His Armies might subsist,) and which might have been (if they had pleas'd) a very good and promising earnest and Forerunner of that great Blessing of Peace; for the ob<g ref="char:EOLhyphen"/>taining of which the wishes and endeavours of all good men being earnestly bent, a farther debate in order to so great a benefit did not deserve to be stiled a Consumption of time. And His Majesty cannot but conceive Himselfe to be in a strange Condition, if the doubtfulnesse of Expres<g ref="char:EOLhyphen"/>sions, (which must alwayes be, whilest the Treaty is at such a distance, and power is denyed to those upon the place to help to clear and explaine) or His necessary Replying to Charges laid upon Him, (that He might not seem to ac<g ref="char:EOLhyphen"/>knowledge what was so charged) or the Limitation of the time of seven dayes for the Treaty (which was not limited by his Majesty, who ever desired to have avoyded that and other Limitations, which have given great interruptions to it) should be as well believed to be the Grounds, as they are made the Arguments of the Rejection of that, which (next to Peace it selfe) His Majesty above all things most desires to see agreed and setled, and which His Majesty hopes (if it may be yet agreed on) will give His People such a Tast of such a Blessing, that after a short time of con<g ref="char:EOLhyphen"/>sideration and comparing of their severall Conditions in Warre and Peace, and what should move them to suffer so much by a Change, they will not think those their Friends that shall force them to it, or be themselves ready to con<g ref="char:EOLhyphen"/>tribute to the renewing of their former miseries, without some greater evidence of Necessity then can appeare to them, when they shall have seen (as they shall see, if this Treaty be suffered to proceed) that His Majesty neither askes nor denies any thing, but what not only according to
+<pb n="38" facs="tcp:204607:21"/> Law He may, but what in Honour and Care of His People He is obliged to ask or deny. And this alone (which a ve<g ref="char:EOLhyphen"/>ry short Cessation would produce) His Majesty esteemes a very considerable Advantage to the Kingdom; and there<g ref="char:EOLhyphen"/>fore cannot but presse againe and againe, that whatever is thought doubtfull in the Expressions of the Articles, may (as in an Houre it may well be done) be expounded, and whatsoever is excepted at may be debated and concluded, and that Power and Instructions may be given to the Com<g ref="char:EOLhyphen"/>mittee to that end, that the miserable effects of Warre, the effusion of English blood, and desolation of England (un<g ref="char:EOLhyphen"/>till they can be totally taken away) may by this means be stayed and interrupted.</p>
+                  <p>His Majesty supposes, that when the Committee was last required to desire His Majesty to give a speedy and po<g ref="char:EOLhyphen"/>sitive Answer to the first Proposition concerning disban<g ref="char:EOLhyphen"/>ding, His answers in that poynt (to which no reply hath been made, and which He hopes by this time have given satisfaction) were not transmitted and received, but won<g ref="char:EOLhyphen"/>ders the Houses should presse His Majesty for a speedy and positive Answer to the first part of their first Proposition concerning disbanding, when to the second part of the very same Proposition, concerning His Returne to both Houses of Parliament, they had not given any Power or instructi<g ref="char:EOLhyphen"/>ons to the Committee, so much as to Treat with His Maje<g ref="char:EOLhyphen"/>sty; And when His Majesty (if His desire of Peace and of speeding the Treaty in order to that had not been preva<g ref="char:EOLhyphen"/>lent with Him) might with all manner of Iustice have de<g ref="char:EOLhyphen"/>layed to begin to Treat upon one part, untill they had been inabled to Treat upon the other; In which poynt, and for want of which Power from them, the only stop now re<g ref="char:EOLhyphen"/>maines, His Majesties Answers to both parts of their first
+<pb n="39" facs="tcp:204607:21"/> Proposition, being given in, transmitted, and yet remaining unanswered. To which, untill the Houses shall be at leasure to make answer, that as little delay in this Treaty, as is possi<g ref="char:EOLhyphen"/>ble, may be caus'd by it, His Majesty desires likewise, That the Committee may be enabled to Treat upon the follow<g ref="char:EOLhyphen"/>ing Propositions in their severall orders.</p>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 10. 1643.</head>
+                     <p>BY Instructions yesterday received from both Houses of Parlia<g ref="char:EOLhyphen"/>ment, we are commanded humbly to insist upon that part of the first Proposition of both Houses of Parliament, concerning the disbanding, according to the papers we have formerly presented to your Majesty thereupon. And we are humbly to acquaint your Majesty, that both Houses of Parliament doe conceive your Maje<g ref="char:EOLhyphen"/>sties Answer concerning the disbanding to be in effect a denyall, unlesse they dissert all those Cautions and limitations, which they have desired in their answer to your Majesties first Proposition.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VV. Peirrepoint.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VV. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 10. 1643.</head>
+                     <p>BY Instructions from both Houses of <hi>Parliament</hi> yesterday recei<g ref="char:EOLhyphen"/>ved, we are commanded to declare unto your <hi>Maiesty</hi> the de<g ref="char:EOLhyphen"/>sire of both Houses for your <hi>Maiesties</hi> comming to your <hi>Parliament,</hi> which they have often expressed with full offers of security to Your Royall Person, agreeable to their duty and allegiance, and they know no cause why your <hi>Maiesty</hi> may not returne thither with Honour and safety, but they did not insert it into our Instructions, because they conceived the disbanding of the Armies would have facilita<g ref="char:EOLhyphen"/>ted your <hi>Maiesties</hi> resolution therein, which they likewise concei<g ref="char:EOLhyphen"/>ved was agreeable to your <hi>Maiesties</hi> sense, who in declaring your
+<pb n="40" facs="tcp:204607:22"/> consent to the order of the Treaty, did only mention that part of the first Proposition which concerned the disbanding, and did omit that which concerned your <hi>Maiesties</hi> comming to both Houses of <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VV. Pierrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VV. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 14. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty had great reason to expect, that as He answered to every part of the first Proposi<g ref="char:EOLhyphen"/>tion of both Houses, so the Committee should likewise have had power and Instructions to Treat with His Majesty concerning both parts of the same; nor had the Houses any Reason to suppose this course agreeable to His Majesties sense, for His Majesty in declaring his Consent to the order of the Treaty, indeed mentioned their first Proposition by the style of the first Proposition which concerned disbanding, but did not style it that part of the first Proposition which concerned dis<g ref="char:EOLhyphen"/>banding, as if He had meant to have excluded any part of that Proposition from being treated on, He would &amp; ought to have done, but though his Majesties Answers in the point of disbanding and returne to His Parliament were as parti<g ref="char:EOLhyphen"/>cular and as satisfactory as His Majesty had cause to make, or could well give, till this latter part were consented to be Treated upon, yet out of His great desire of Peace, and of complying with both Houses, His Majesty hath made a full and particular answer and offer to both Houses, concerning aswell the first part of their first Article, upon which He hath reated with the Committee, as that upon which they have
+<pb n="41" facs="tcp:204607:22"/> yet no power to treat, though His Majesty hath prest that such power might be given to them.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 14. 1643.</head>
+                     <p>VVEE received Instructions from both Houses of Parlia<g ref="char:EOLhyphen"/>ment the ninth of this present <hi>April,</hi> and in pursu<g ref="char:EOLhyphen"/>ance thereof, we humbly presented a paper to Your Majesty upon the tenth of this instant, wherein those Instructions were ex<g ref="char:EOLhyphen"/>pressed, and the desire of both Houses concerning your Majesties returne to Your Parliament.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Northumberland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VV. Peirrepont.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ioh. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>VV. Armyne.</hi>
+                              </item>
+                              <item>
+                                 <hi>B. VVhitelocke.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </div>
+                  <div type="document">
+                     <head>
+                        <hi>April.</hi> 15. 1643.</head>
+                     <p>
+                        <seg rend="decorInit">H</seg>IS Majesty doth acknowledge to have re<g ref="char:EOLhyphen"/>ceived a Paper from the Committee upon the tenth of <hi>April,</hi> expressing, That they had received Instructions, to declare unto His Majesty the desire of both Houses for His Majesties comming to His Parliament, which they had of<g ref="char:EOLhyphen"/>ten expres't with full offers of security to His Royall Per<g ref="char:EOLhyphen"/>son, agreeable to their Duty and Allegiance; and that they knew no cause why His Majesty might not returne thither with Honour and Safety. But as the Committee had be<g ref="char:EOLhyphen"/>fore acknowledged in a Paper of the fixth of <hi>April,</hi> not to have any power or Instructions to treat with His Majesty
+<pb n="42" facs="tcp:204607:23"/> concerning His Returne to His two Houses of Parliament, and as this Paper mention'd no Instructions to treat, but onely to deliver that single Message concerning it, so His Majesty tooke it for granted that if they had received any new power or Instructions in that point, they would have signified as much to Him, and therefore conceiving it in vaine to discourse, and impossible to treat upon that, with those, who had no power to treat with Him, His Majesty addrest that Answer concerning that point to both Houses, of which his Majesty took notice to the Committee in a Paper of this fourteenth of <hi>April,</hi> and which was shewed to them before He sent it. And if both Houses will upon it but consent, to give his Majesty such security as will appear to all indifferent Persons to be agreeable to their Duty and Allegiance (those Tumults which drove Him from thence, and what followed those Tumults being a most visible and sufficient Reason why He cannot Returne thither with His Honour and Safety, without more particular offers of Secu<g ref="char:EOLhyphen"/>rity, then as yet they have ever made Him) all Disputes about that point betweene them will be soon ended, and His Majesty speedily returne to them, and His whole King<g ref="char:EOLhyphen"/>dome to their former Peace and Happinesse.</p>
+                     <closer>
+                        <signed>FALKLAND.</signed>
+                     </closer>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:204607:23"/>
+                  <p>HIS MAJESTIES MESSAGE TO BOTH HOUSES, CONCERNING DISBANDING OF both ARMIES, AND <hi>HIS MAIESTJES</hi> RETURNE TO BOTH Houses of PARLIAMENT, Mentioned in HIS MAJESTIES two last Papers.</p>
+                  <p>OXFORD 12. <hi>April.</hi> 1643.</p>
+                  <p>Printed, by His MAJESTIES Command, <hi>AT OXFORD,</hi> By LEONARD LICHFIELD Printer <hi>to the Vniversity.</hi> 1643.</p>
+               </div>
+            </front>
+            <body>
+               <div type="document">
+                  <pb facs="tcp:204607:24"/>
+                  <pb n="43" facs="tcp:204607:24"/>
+                  <head>HIS MAIESTIES <hi>MESSAGE TO BOTH</hi> HOUSES, &amp;c. OXFORD, <hi>April.</hi> 12. 1643.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>O show to the whole World how earnestly His Majesty longs for Peace, and that no successe shall make Him desire the continuance of His Army to any other end, or for any longer time then That, and untill things may be so setled, as that the Law may have a full, free, and uninterrupted course, for the defence and preservation of the Rights of His Majesty, both Houses, and His good Subjects.</p>
+                  <p n="1">
+                     <pb n="44" facs="tcp:204607:25"/>1. As soon as His Majesty is satisfied in His first Proposition concerning His own Revenue, Magazines, Ships, and Forts, in which He desires nothing but that the just, known, Legall Rights of His Majestie (devolved to Him from His Progeni<g ref="char:EOLhyphen"/>tors) and of the Persons trusted by Him, which have violently been taken from both, be restored unto Him and unto them, unlesse any Just and Le<g ref="char:EOLhyphen"/>gall exceptions against any of the Persons trusted by Him (which are yet unknown to His Majestie) can be made appeare to Him.</p>
+                  <p n="2">2. As soon as all the Members of both Houses shall be restored to the same Capacity of Sitting and Voting in Parliament, as they had upon the first of <hi>Ianuary,</hi> 1641. the same of right belonging unto them by their Birth-Rights, and the free Ele<g ref="char:EOLhyphen"/>ction of those that sent them, and having been Vo<g ref="char:EOLhyphen"/>ted from them for adhering to His Majestie in these distractions. His Majestie not intending that this should extend either to the Bishops, whose Votes have been taken away by Bill, or to such in whose places upon new Writs new elections have been made.</p>
+                  <p n="3">3. As soon as His Majesty and both Houses may be secured from such tumultuous Assemblies, as, to
+<pb n="45" facs="tcp:204607:25"/> the great breach of the Priviledges, and the high dishonour of Parliaments, have formerly assem<g ref="char:EOLhyphen"/>bled about both Houses, and awed the members of the same, and occasioned two severall Com<g ref="char:EOLhyphen"/>plaints from the Lords House, and two severall desires of that House to the House of Commons, to joyne in a Declaration against them, the com<g ref="char:EOLhyphen"/>plying with which desire, might have prevented all these miserable distractions, which have ensu<g ref="char:EOLhyphen"/>ed. Which security His Majesty conceives can be only setled by adjourning the Parliament to some other place, at the least twenty miles from <hi>London,</hi> the choice of which His Majesty leaves to both Houses.</p>
+                  <p>His Majesty will most cheerfully and readily consent that both Armies be immediatly disban<g ref="char:EOLhyphen"/>ded, and give a present meeting to both His Hou<g ref="char:EOLhyphen"/>ses of Parliament at the time and place at and to which the Parliament shall be agreed to be ad<g ref="char:EOLhyphen"/>journed.</p>
+                  <p>His Majesty being most confident, that the Law will then recover the due credit and estimation, and that upon a free debate in a full and peaceable convention of <hi>Parliament,</hi> such provisions will be made against seditious Preaching and Printing
+<pb n="46" facs="tcp:204607:26"/> against His Majesty, and the established Lawes, which hath been one of the chief causes of the present distractions; and such care will be taken concerning the Legall and known Rights of His Majesty, and the Property and Liberty of His Sub<g ref="char:EOLhyphen"/>jects, that whatsoever hath been published or done in or by Colour of any illegall Declaration, Ordi<g ref="char:EOLhyphen"/>nance or Order of one or both Houses, or any Committee of either of them, and particularly the power to raise Armes without His Majesties con<g ref="char:EOLhyphen"/>sent, will be in such manner recalled, disclaimed and provided against, that no seed will remaine for the like to spring out of for the future, to di<g ref="char:EOLhyphen"/>sturbe the peace of the Kingdom, and to endanger the very being of it.</p>
+                  <p>And in such a Convention His Majesty is re<g ref="char:EOLhyphen"/>solved by His readinesse to consent to whatsoe<g ref="char:EOLhyphen"/>ver shall be proposed to Him by Bill for the Reall good of His Subjects, (and particularly for the better discovery and speedier Conviction of Re<g ref="char:EOLhyphen"/>cusants, for the Education of the Children of Pa<g ref="char:EOLhyphen"/>pists by Protestants in the Protestant Religion, for the preuention of practices of Papists against the State, and the due execution of the Lawes, and true levying of the penalties against them) to
+<pb n="47" facs="tcp:204607:26"/> make knowne to all the World, how causelesse those Feares and Jealousies have been which have been raised against Him, and by that so distracted this miserable Kingdom. And if this offer of His Majesty be not consented to, (in which He askes nothing for which there is not apparent Iustice on His side, and in which He deferres many things highly concerning both Himselfe and People, till a full and peaceable convention of <hi>Parliament,</hi> which in Justice He might now require) His Ma<g ref="char:EOLhyphen"/>jesty is confident, that it will then appeare to all the World, not only who is most desirous of Peace, and whose fault it is that both Armies are not now disbanded, but who have been the true and first cause that this Peace was ever interrupted, or these Armies raised; and the beginning or conti<g ref="char:EOLhyphen"/>nuance of the Warre, and the destruction &amp; deso<g ref="char:EOLhyphen"/>lation of this poor Kingdom (which is too likely to ensue) will not, by the most interessed, passio<g ref="char:EOLhyphen"/>nate, or prejudicate Person, be imputed to His Majesty.</p>
+               </div>
+               <div type="document">
+                  <pb n="48" facs="tcp:204607:27"/>
+                  <p>TO this gratious offer of His Majesties, by which His great desire of Peace, and readinesse to dis<g ref="char:EOLhyphen"/>band His Army, and Returne to His Parliament (so He and His Parliament may be secured from Tumults and violence) are made visible to all the World, not so much as any Answer hath yet been returned from both Houses, but upon the receipt thereof (as fearing perhaps least any continuance of the Treaty upon so reasonable an Offer, might unavoydably produce a Peace) The Committee of both Houses were immediately recall'd by new orders, and that of the House of Commons com<g ref="char:EOLhyphen"/>manded to hasten their returne in most strict and un<g ref="char:EOLhyphen"/>usuall Termes.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:204607:27"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
